@@ -2,6 +2,7 @@
 
 /src/TestComponent/Solution
 /firebase.debug.log
+/.firebase
 
 # dependencies
 /node_modules
